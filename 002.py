@@ -13,9 +13,9 @@ while t2 < limit:
     t1 = t2
     t2 = t
 
-print (s)
+print(s)
 
 done = time()
 total_time = done - now
 
-print ("done in : {} ms".format(total_time))
+print("done in : {} ms".format(total_time))

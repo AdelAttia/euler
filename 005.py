@@ -19,4 +19,4 @@ print(smallest_multiple(20))
 end = time()
 total_time = end - start
 
-print ("done in : {} seconds".format(total_time))
+print("done in : {} seconds".format(total_time))
